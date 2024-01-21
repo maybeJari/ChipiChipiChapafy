@@ -1,0 +1,6 @@
+img.yt-core-image--loaded,
+#img,
+#avatar {
+  content: url(https://i.imgur.com/1RfDR2c.gif);
+  object-fit: cover;
+}
